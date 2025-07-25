@@ -1,0 +1,30 @@
+{
+  "site": {
+    "title": "HittaStipendier.se - Aktiva stipendier för utlandsstudier",
+    "subtitle": "stipendierna som faktiskt är aktiva (kandidat utomlands)",
+    "lastUpdated": "Senast uppdaterad"
+  },
+  "intro": {
+    "description1": "Vi har lagt ner hundratals timmar vardera på att hitta aktiva stipendier.",
+    "description2": "För att hjälpa andra har vi kastat ihop",
+    "description3": "denna lista som innehåller länkar och ansökningsdatum till de stiftelser som vi själva fått stipendier från / som är aktiva.",
+    "contact": "Frågor eller tips:",
+    "authors": "— Karl (fysikstudent) & Alice (datavetenskapsstudent)"
+  },
+  "table": {
+    "month": "Månad",
+    "foundation": "Stiftelse",
+    "scholarship": "Stipendie",
+    "details": "Detaljer",
+    "amount": "Belopp"
+  },
+  "sections": {
+    "karlScholarships": "De stipendier Karl har fått",
+    "karlSchedule": "Karls ansökningsschema",
+    "aliceSchedule": "Alice Ansökningsschema",
+    "usefulLinks": "Användbara länkar"
+  },
+  "scheduleNote": "(Många stiftelser är öppna i flera månader. De månader jag angivit är när ansökan öppnar)",
+  "footer": "Denna 90-talistiska sida är ihopkastad av Karl Vilhelmsson Emneby och Alice Heiman i syfte att hjälpa svenska utlandsstudenter att lättare söka stipendier",
+  "visitors": "Unika besökare"
+}

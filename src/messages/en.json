@@ -1,0 +1,30 @@
+{
+  "site": {
+    "title": "FindScholarships.se - Active scholarships for studying abroad",
+    "subtitle": "scholarships that are actually active (undergraduate abroad)",
+    "lastUpdated": "Last updated"
+  },
+  "intro": {
+    "description1": "We have each spent hundreds of hours finding active scholarships.",
+    "description2": "To help others, we have put together",
+    "description3": "this list containing links and application dates to foundations we have received scholarships from / that are active.",
+    "contact": "Questions or tips:",
+    "authors": "— Karl (physics student) & Alice (computer science student)"
+  },
+  "table": {
+    "month": "Month",
+    "foundation": "Foundation",
+    "scholarship": "Scholarship",
+    "details": "Details",
+    "amount": "Amount"
+  },
+  "sections": {
+    "karlScholarships": "Scholarships Karl has received",
+    "karlSchedule": "Karl's application schedule",
+    "aliceSchedule": "Alice's application schedule",
+    "usefulLinks": "Useful links"
+  },
+  "scheduleNote": "(Many foundations are open for several months. The months I have indicated are when applications open)",
+  "footer": "This 90s-style page was thrown together by Karl Vilhelmsson Emneby and Alice Heiman to help Swedish students studying abroad find scholarships more easily",
+  "visitors": "Unique visitors"
+}
